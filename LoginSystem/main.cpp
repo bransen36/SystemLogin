@@ -33,7 +33,7 @@ int main()
     if (choice == 1)
     {
         string username, password;
-
+        
         cout << "select a username:"; cin >> username;
 
         cout << "select a password:"; cin >> password;
